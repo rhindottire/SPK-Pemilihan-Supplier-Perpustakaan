@@ -26,6 +26,8 @@ Repositori kode sumber (*source code*) proyek aplikasi Sistem Informasi Perpusta
 
 * **Visibilitas Repositori:** Publik (*Public Repository*)
 * **Branch Utama:** `main`
+* **Status Deployment:** Terunggah, Terverifikasi, dan Aktif (*Live*)
+* **Identitas Commit Utama:** `8de9724` (*feat(spk): implement library supplier selection SPK with dynamic filtering and side-by-side comparison*)
 
 ---
 
